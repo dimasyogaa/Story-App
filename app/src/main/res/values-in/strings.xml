@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk membagikan ceritamu?</string>
+    <string name="name">Nama</string>
+    <string name="copyright">© 2023 Dicoding</string>
+    <string name="logout">Keluar</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac purus purus.</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="story_upload">Unggah Cerita</string>
+    <string name="language">Bahasa</string>
+    <string name="login_success">Anda berhasil login</string>
+    <string name="text_continue">Lanjut</string>
+    <string name="error_email">Email harus valid (xxx@xxxx.com)</string>
+    <string name="error_password">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="register_successs">Akunnya sudah jadi nih. Yuk, login dan upload storymu.</string>
+    <string name="empty_field">Masukkan 1%$s anda</string>
+    <string name="titlle_dialog_success">Yeah!</string>
+    <string name="empty_image">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="dialog_logout">Yakin ingin keluar dari akun anda?</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Iya</string>
+    <string name="todo_story_image">Gambar Cerita</string>
+    <string name="todo_upload_image">Gambar yang akan diunggah</string>
+    <string name="todo_take_photo">Tombol untuk mengambl foto</string>
+    <string name="todo_switch_camera">Tombol untuk mengganti kamera depan atau belakang</string>
+    <string name="todo_illustration_login">Gambar ilustrasi di halaman masuk</string>
+    <string name="todo_illustration_register">Gambar ilustrasi di halaman pendaftaran</string>
+    <string name="user_not_found">User not found</string>
+</resources>
